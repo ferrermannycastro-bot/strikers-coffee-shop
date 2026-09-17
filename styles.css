@@ -36,7 +36,7 @@ body {
   background-color: var(--color-cream); /* fallback while the image loads */
   background-image:
     linear-gradient(rgba(251, 243, 231, 0.92), rgba(251, 243, 231, 0.92)),
-    url("images/kapeben.jpg");
+    url("kapeben.jpg");
   background-repeat: repeat;      
   background-size: 400px;         
   background-attachment: fixed;   /* texture stays while scrolling  */
